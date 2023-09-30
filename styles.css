@@ -1,0 +1,29 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+#main{
+    display: flexbox;
+    background: url(Screenshot\ \(15\).png) center/cover;
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat; 
+    flex: content;
+    flex: content;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    
+    width: 100%;
+    height: 100%;
+    background-color:rgb(154, 179, 12);
+    background-size: cover;
+    
+    color: rgb(14, 13, 13);
+}
